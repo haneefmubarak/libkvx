@@ -1,0 +1,30 @@
+[submodule "deps/rocksdb"]
+	path = deps/leveldb/rocksdb
+	url = https://github.com/facebook/rocksdb
+[submodule "deps/leveldb/leveldb"]
+	path = deps/leveldb/leveldb
+	url = https://github.com/google/leveldb
+[submodule "deps/leveldb/basho"]
+	path = deps/leveldb/basho
+	url = https://github.com/basho/leveldb
+[submodule "deps/leveldb/HyperLevelDB"]
+	path = deps/leveldb/HyperLevelDB
+	url = https://github.com/rescrv/HyperLevelDB
+[submodule "deps/sophia"]
+	path = deps/sophia
+	url = https://github.com/pmwkaa/sophia
+[submodule "deps/forestdb"]
+	path = deps/forestdb
+	url = https://github.com/couchbase/forestdb
+[submodule "deps/sparkey"]
+	path = deps/sparkey
+	url = https://github.com/spotify/sparkey
+[submodule "deps/mdbm"]
+	path = deps/mdbm
+	url = https://github.com/timrc-git/mdbm
+[submodule "deps/mdbx"]
+	path = deps/mdbx
+	url = https://github.com/leo-yuriev/libmdbx
+[submodule "deps/upscaledb"]
+	path = deps/upscaledb
+	url = https://github.com/cruppstahl/upscaledb
